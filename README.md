@@ -1,6 +1,10 @@
 # Multimedia_Control_Tray_11-
 A program in python that allows you to create icons on the tray so you can command media content by double-clicking, works with youtube, spotify and many other players
 
+
+![Screenshot (45)](https://user-images.githubusercontent.com/87772044/212498214-21f01a87-986a-459d-8ef8-18c2e61c5d81.png)
+
+
 To use the pogram you need python 3.x
 you also need to install library with the following command:
 - pip install pynput
